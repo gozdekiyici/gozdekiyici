@@ -6,7 +6,7 @@
 
 ### Reach out to me 
 
-[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" align="left" />][linkedin]
+[<img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" align="left" />][linkedin]
 
 <br/>
 <br/>
