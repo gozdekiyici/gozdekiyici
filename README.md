@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Gozde. :blush:
 
-## Full Stack Developer
+## Software Developer
 
 ### Reach out to me 
 
